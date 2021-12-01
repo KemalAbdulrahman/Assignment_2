@@ -1,0 +1,74 @@
+"Plains/East/Northeast Severe Weather (June-July 2012)","Severe Storm",2012,3264.0,28
+"Hurricane Isaac (August 2012)","Tropical Cyclone",2012,3122.8,9
+"Hurricane Sandy (October 2012)","Tropical Cyclone",2012,73494.6,159
+"Western Wildfires (Summer-Fall 2012)","Wildfire",2012,1964.6,8
+"U.S. Drought/Heatwave (2012)","Drought",2012,33903.9,123
+"Southeast Severe Weather (March 2013)","Severe Storm",2013,2242.2,1
+"Midwest/Plains Severe Weather (April 2013)","Severe Storm",2013,1602.9,1
+"Illinois Flooding and Severe Weather (April 2013)","Flooding",2013,1195.6,4
+"Midwest/Plains/East Tornadoes (May 2013)","Severe Storm",2013,2664.4,27
+"Midwest/Plains/Northeast Tornadoes (May 2013)","Severe Storm",2013,2013.0,10
+"Midwest Severe Weather (August 2013)","Severe Storm",2013,1156.6,0
+"Colorado Flooding (September 2013)","Flooding",2013,1674.4,9
+"Ohio Valley Tornadoes (November 2013)","Severe Storm",2013,1210.7,8
+"Western/Plains Drought/Heatwave (Spring-Fall 2013)","Drought",2013,11573.2,53
+"Midwest/Southeast/Northeast Winter Storm (January 2014)","Winter Storm",2014,2368.2,16
+"Plains Severe Weather (April 2014)","Severe Storm",2014,1552.2,0
+"Midwest/Southeast/Northeast Tornadoes and Flooding (April 2014)","Severe Storm",2014,1892.4,33
+"Rockies/Midwest/Eastern Severe Weather (May 2014)","Severe Storm",2014,4047.5,0
+"Rockies/Central Plains Severe Weather (June 2014)","Severe Storm",2014,2091.9,2
+"Michigan and Northeast Flooding (August 2014)","Flooding",2014,1124.6,2
+"Rockies/Plains Severe Weather (September 2014)","Severe Storm",2014,1526.5,0
+"Western Drought (2014)","Drought",2014,4327.4,0
+"Central and Eastern Winter storm Cold Wave (February 2015)","Winter Storm",2015,3258.4,30
+"Midwest/Ohio Valley Severe Weather (April 2015)","Severe Storm",2015,1711.1,2
+"South/Southeast Severe Weather (April 2015)","Severe Storm",2015,1412.3,0
+"Southern Plains Tornadoes (May 2015)","Severe Storm",2015,1399.3,4
+"Texas and Oklahoma Flooding and Severe Weather (May 2015)","Flooding",2015,2750.7,31
+"Central and Northeast Severe Weather (June 2015)","Severe Storm",2015,1289.1,1
+"South Carolina and East Coast Flooding (October 2015)","Flooding",2015,2198.0,25
+"Western and Alaskan Wildfires (Summer-Fall 2015)","Wildfire",2015,3330.8,12
+"Texas Tornadoes and Midwest Flooding (December 2015)","Severe Storm",2015,2158.2,50
+"Western Drought (2015)","Drought",2015,4912.6,0
+"Southeast and Eastern Tornadoes (February 2016)","Severe Storm",2016,1123.3,10
+"Texas and Louisiana Flooding (March 2016)","Flooding",2016,2478.4,5
+"Southern Severe Weather (March 2016)","Severe Storm",2016,1307.1,1
+"North Texas Hail Storm (March 2016)","Severe Storm",2016,2229.9,0
+"North/Central Texas Hail Storm (April 2016)","Severe Storm",2016,3778.5,0
+"Houston Flooding (April 2016)","Flooding",2016,2890.1,8
+"South/Southeast Tornadoes (April 2016)","Severe Storm",2016,2586.0,6
+"Plains Tornadoes and Central Severe Weather (May 2016)","Severe Storm",2016,1857.3,2
+"Rockies/Central Tornadoes and Severe Weather (May 2016)","Severe Storm",2016,1237.9,0
+"West Virginia Flooding and Ohio Valley Tornadoes (June 2016)","Flooding",2016,1046.3,23
+"Rockies and Northeast Severe Weather (July 2016)","Severe Storm",2016,1582.9,0
+"Louisiana Flooding (August 2016)","Flooding",2016,10800.0,13
+"Hurricane Matthew (October 2016)","Tropical Cyclone",2016,10800.0,49
+"Western/Southeast Wildfires (Summer-Fall 2016)","Wildfire",2016,2586.6,21
+"West/Northeast/Southeast Drought (2016)","Drought",2016,3729.2,0
+"Southern Tornado Outbreak and Western Storms (January 2017)","Severe Storm",2017,1160.4,24
+"California Flooding (February 2017)","Flooding",2017,1575.0,5
+"Central/Southeast Tornado Outbreak (March 2017)","Severe Storm",2017,1896.7,6
+"Midwest Tornado Outbreak (March 2017)","Severe Storm",2017,2285.0,2
+"Southeast Freeze (March 2017)","Freeze",2017,1050.0,0
+"South/Southeast Severe Weather (March 2017)","Severe Storm",2017,2829.8,0
+"Missouri and Arkansas Flooding and Central Severe Weather (May 2017)","Flooding",2017,1742.3,20
+"Colorado Hail Storm and Central Severe Weather (May 2017)","Severe Storm",2017,3517.5,0
+"Minnesota Hail Storm and Upper Midwest Severe Weather (June 2017)","Severe Storm",2017,2467.5,0
+"Midwest Severe Weather (June 2017)","Severe Storm",2017,1584.7,0
+"Midwest Severe Weather (June 2017)","Severe Storm",2017,1496.3,0
+"Hurricane Harvey (August 2017)","Tropical Cyclone",2017,130000.0,89
+"Hurricane Irma (September 2017)","Tropical Cyclone",2017,52000.0,97
+"Hurricane Maria (September 2017)","Tropical Cyclone",2017,93600.0,2981
+"Western Wildfires California Firestorm (Summer-Fall 2017)","Wildfire",2017,18725.2,54
+"North Dakota South Dakota and Montana Drought (Spring-Fall 2017)","Drought",2017,2600.0,0
+"Central and Eastern Winter Storm (January 2018)","Winter Storm",2018,1074.4,22
+"Northeast Winter Storm (March 2018)","Winter Storm",2018,2259.9,9
+"Southeastern Tornadoes and Severe Weather (March 2018)","Severe Storm",2018,1495.7,0
+"Southern and Eastern Tornadoes and Severe Weather (April 2018)","Severe Storm",2018,1344.4,3
+"Central and Northeastern Severe Weather (May 2018)","Severe Storm",2018,1432.0,0
+"Central and Eastern Severe Weather (May 2018)","Severe Storm",2018,1397.5,5
+"Texas Hail Storm (June 2018)","Severe Storm",2018,1326.0,0
+"Southeast Ohio Valley and Northeast Severe Weather (February 2019)","Severe Storm",2019,1249.9,2
+"Texas Hail Storm (March 2019)","Severe Storm",2019,1403.9,0
+"South and Southeast Severe Weather (May 2019)","Severe Storm",2019,1090.0,0
+"Rockies Central and Northeast Tornadoes and Severe Weather (May 2019)","Severe Storm",2019,2546.0,2
